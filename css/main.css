@@ -1,19 +1,31 @@
-h2 {
-    color: red;
-    font-family: "Lucida Grande", "Helvetica Nueue", Arial, sans-serif;
+header{
+
 }
 
-p {
-    font-family: monospace;
+nav{
+
 }
 
-img {
-    display: block;
-    width: 50%;
-    margin-left: auto;
-    margin-right: auto;
+nav ul{
+
 }
 
-.centerText {
-    text-align: center;
+#content{
+
+}
+
+#ad{
+
+}
+
+.news{
+
+}
+
+.title{
+
+}
+
+footer{
+
 }
