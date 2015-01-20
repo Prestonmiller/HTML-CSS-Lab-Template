@@ -61,6 +61,10 @@ nav ul{
     font-size: 30px;
     font-weight: bold;
 }
+.news-image{
+    float: left;
+    width: 200px;
+}
 
 a{
     color:#19D119;
